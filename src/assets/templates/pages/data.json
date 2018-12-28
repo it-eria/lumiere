@@ -1,0 +1,20 @@
+{
+  "p-index": {
+    "head": {
+      "title": "Main page"
+    },
+
+    "org-main-menu": true,
+    "org-main-slider": true,
+
+
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": true,
+        "bootstrap": true
+      }
+    }
+  }
+}
